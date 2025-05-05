@@ -1,2 +1,2 @@
-# proyecto-github-flow02
-demo sesion 01
+# proyecto-github-flow
+Ejercicio práctico de GitHub Flow
